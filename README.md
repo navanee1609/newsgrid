@@ -22,12 +22,6 @@ News-Grid is your go-to source for staying updated on the day-to-day news from a
 
 Whether you're a tech enthusiast, a sports fanatic, or just curious about current events, News-Grid has you covered. Explore our platform, stay informed, and engage with the world's top news stories effortlessly.
 
-## Screenshots
-
-![Screenshot 1](link-to-screenshot-1.png)
-![Screenshot 2](link-to-screenshot-2.png)
-![Screenshot 3](link-to-screenshot-3.png)
-
 [Include screenshots or images of your web pages here to provide a visual preview of your news blog.]
 
 ## Installation
