@@ -51,6 +51,14 @@ We welcome contributions to improve News-Grid. To contribute:
 
 If you have any questions or feedback, feel free to contact us at [navaneethanvs18@gmail.com].
 
+#Descriptive Video
+
+
+https://github.com/navanee1609/newsgrid/assets/120004894/a0b99db5-11f0-43ff-b0e2-96d1c3dc5e49
+
+
+
+
 ##Screenshots
 ![newsgrid](https://github.com/navanee1609/newsgrid/assets/120004894/99811095-4872-496a-94d4-bbaed1eed49e)
 ![Newsgrid-1](https://github.com/navanee1609/newsgrid/assets/120004894/dd299367-f8f4-42d9-b0ca-64a279ddb800)
